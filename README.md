@@ -71,7 +71,7 @@ Found a Bug ? Create an Issue.
 
 Leave a ⭐ If you think this project is cool.
 
-[Share with the world](https://github.com/shazDroid/LineView](https://github.com/shazDroid/LineView) ✨
+[Share with the world](https://github.com/shazDroid/LineView) ✨
 
 <br/>
 
