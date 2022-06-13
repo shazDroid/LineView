@@ -50,7 +50,7 @@ There are some custom options below.
 ## Installation
 ```gradle
 dependencies {
-   implementation 'com.github.shazDroid:stateLayout:0.1.3'
+   implementation 'com.github.shazDroid:LineView:1.0.0'
 }
 ```
 <br/>
@@ -71,7 +71,7 @@ Found a Bug ? Create an Issue.
 
 Leave a ⭐ If you think this project is cool.
 
-[Share with the world](https://github.com/shazDroid/stateLayout) ✨
+[Share with the world](https://github.com/shazDroid/stateLayout](https://github.com/shazDroid/LineView/) ✨
 
 <br/>
 
